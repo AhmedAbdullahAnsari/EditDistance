@@ -2,7 +2,7 @@
 ### Note:
 * This code is witten in Python3.6
 * Get Python3.6 from here: [Python3.6](https://www.python.org/downloads/)
-* Get PyCharm from here: [PyCharm](https://www.jetbrains.com/pycharm-edu/download/#section=windows)
+* Get PyCharm IDE from here: [PyCharm](https://www.jetbrains.com/pycharm-edu/download/#section=windows)
 ### How to run?
 1. Copy the code and paste on IDE
 2. Run the code
