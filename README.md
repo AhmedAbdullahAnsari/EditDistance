@@ -8,7 +8,7 @@
 2. Run the code
 3. Enter the length of string you want to enter
 4. Enter the string character and hit enter after each character
-5. After done with first string initilaize the length of second string it should be +1 the size of second string
+5. After done with first string initilaize the length of second string it should be minimum +1 the size of first string
 6. Now choose operation (i.e. insert, copy, delete, twiddle, replace, kill) to edit the first string to the desired string
 7. If entered wrong input can not go to previous index
 8. Once process is killed can not go further program will be terminated then
